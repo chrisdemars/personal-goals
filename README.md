@@ -16,6 +16,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ## Things I'll Do This Week:
 - [x] Finish blog post about Dylan's presentation.
 - [ ] Learn about Web sockets.
+- [ ] Put together performance review of company Web site.
 - [ ] Write a blog post about performance.
 - [ ] Send Una a nice email (una.kravets@gmail.com)
 - [x] Read [this blog post](http://una.github.io/personal-goals-guide)
@@ -26,7 +27,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Come up with a new side project
 
 ### Backlog: Side Projects :)
-- [ ] Work on [my cool project I forgot about](http://google.com)
+- [ ] Work on my node-file-search cli tool.
 
 ### Backlog: Code Things I Want to Do/Play With
 1. Create ipsum generator
