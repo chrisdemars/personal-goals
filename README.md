@@ -25,6 +25,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Finish reading "Learn to Program"
 - [ ] Finish reading "You Are A Badass"
 - [ ] Come up with a new side project
+- [ ] Build a tweet bot.
 
 ### Backlog: Side Projects :)
 - [ ] Work on my node-file-search cli tool.
