@@ -16,6 +16,8 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Things I'll Do This Week:
 - [ ] Learn about Web sockets.
+- [ ] Call doctors.
+- [ ] Call student loan place.
 - [ ] E-mail volunteers for GAAD.
 - [ ] Call Dylan!
 - [ ] Create repo for ngWhatTheF*ck!
