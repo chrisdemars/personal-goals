@@ -10,7 +10,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 2. Write more blog posts.
 3. Up my JS skills.
 
-# May 9th, 2016
+# May 16th, 2016
 
 ### This Week's Goal: Finish code exercise for SoFi.
 
