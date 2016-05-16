@@ -21,7 +21,6 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Create repo for ngWhatTheF*ck!
 - [ ] Start and finish code exercise for SoFi.
 - [ ] Send Una a nice email (una.kravets@gmail.com)
-- [x] Read [this blog post](http://una.github.io/personal-goals-guide)
 
 ### Things I'll Do This Month: May 2016
 - [ ] Finish reading "Learn to Program"
