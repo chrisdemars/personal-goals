@@ -16,13 +16,13 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Things I'll Do This Week:
 - [ ] Learn about Web sockets.
-- [ ] Call doctors.
+- [x] Call doctors.
 - [ ] Call student loan place.
 - [ ] E-mail volunteers for GAAD.
 - [ ] Call Dylan!
 - [ ] Create repo for ngWhatTheF*ck!
 - [ ] Start and finish code exercise for SoFi.
-- [ ] Create DetroitJS logo.
+- [x] Create DetroitJS logo.
 - [ ] Start slides for DetroitJS meetup.
 - [ ] Send Una a nice email (una.kravets@gmail.com)
 
