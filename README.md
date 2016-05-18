@@ -27,6 +27,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Send Una a nice email (una.kravets@gmail.com)
 
 ### Things I'll Do This Month: May 2016
+- [ ] Create aliases in my terminal.
 - [ ] Finish reading "Learn to Program"
 - [ ] Finish reading "You Are A Badass"
 - [ ] Come up with a new side project.
