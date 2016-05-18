@@ -18,7 +18,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Learn about Web sockets.
 - [x] Call doctors.
 - [ ] Call student loan place.
-- [ ] E-mail volunteers for GAAD.
+- [x] E-mail volunteers for GAAD.
 - [x] Call Dylan!
 - [x] Create repo for ngWhatTheF*ck!
 - [x] Start and finish code exercise for SoFi.
