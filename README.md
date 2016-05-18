@@ -19,7 +19,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [x] Call doctors.
 - [ ] Call student loan place.
 - [ ] E-mail volunteers for GAAD.
-- [ ] Call Dylan!
+- [x] Call Dylan!
 - [x] Create repo for ngWhatTheF*ck!
 - [x] Start and finish code exercise for SoFi.
 - [x] Create DetroitJS logo.
