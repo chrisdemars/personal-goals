@@ -16,6 +16,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Things I'll Do This Week:
 - [ ] Learn about Web sockets.
+- [ ] Write blog post on my 3-5 favorite Atom packages.
 - [x] Call doctors.
 - [ ] Call student loan place.
 - [x] E-mail volunteers for GAAD.
@@ -23,7 +24,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [x] Create repo for ngWhatTheF*ck!
 - [x] Start and finish code exercise for SoFi.
 - [x] Create DetroitJS logo.
-- [ ] Start slides for DetroitJS meetup.
+- [x] Start slides for DetroitJS meetup.
 - [ ] Send Una a nice email (una.kravets@gmail.com)
 
 ### Things I'll Do This Month: May 2016
