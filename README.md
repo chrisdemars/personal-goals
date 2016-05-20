@@ -15,6 +15,8 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ### This Week's Goal: Finish code exercise for SoFi.
 
 ## Things I'll Do This Week:
+- [ ] Write blog post on GAAD.
+- [ ] Write blog post on Self.Conf.
 - [ ] Learn about Web sockets.
 - [ ] Write blog post on my 3-5 favorite Atom packages.
 - [x] Call doctors.
