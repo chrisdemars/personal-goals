@@ -15,18 +15,12 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ### This Week's Goal: Finish code exercise for SoFi.
 
 ## Things I'll Do This Week:
-- [ ] Write blog post on GAAD.
+- [x] Finish slides for DetroitJS.
 - [ ] Write blog post on Self.Conf.
-- [ ] Learn about Web sockets.
+- [ ] Write blog post about GAAD.
 - [ ] Write blog post on my 3-5 favorite Atom packages.
-- [x] Call doctors.
 - [ ] Call student loan place.
-- [x] E-mail volunteers for GAAD.
-- [x] Call Dylan!
-- [x] Create repo for ngWhatTheF*ck!
-- [x] Start and finish code exercise for SoFi.
-- [x] Create DetroitJS logo.
-- [x] Start slides for DetroitJS meetup.
+- [ ] Start Mark's site.
 - [ ] Send Una a nice email (una.kravets@gmail.com)
 
 ### Things I'll Do This Month: May 2016
@@ -40,7 +34,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ### Backlog: Side Projects :)
 - [ ] Work on my node-file-search cli tool.
-- [ ] Brainstorm ngWhatTheF*ck! web app.
+- [x] Brainstorm ngWhatTheF*ck! web app.
 
 ### Backlog: Code Things I Want to Do/Play With
 1. Create ipsum generator
