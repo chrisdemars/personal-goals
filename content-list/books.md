@@ -1,9 +1,25 @@
-# Books to Read or Buy
-
+# JavaScript Books to Read or Buy
 - [ ] [Eloquent Javascript](http://eloquentjavascript.net/)
-- [ ] [Pocket Guide to Writing SVG](http://svgpocketguide.com/book/)s
-- [ ] That Book That I Have a Physical Copy of Counts, Too
 - [ ] The whole YDKJS series by Kyle Simpson.
-- [ ] The whole A Book Apart series.
+- [ ] Understanding ECMAScript 6.
+- [ ] Maintainable JavaScript.
+- [ ] Professional JavaScript for Web Developers.
+
+# Front End Books
 - [ ] Front End Architecture by Micah Godbolt
-- [ ] Lea Verou's book
+
+# CSS Books
+- [ ] CSS Secrets.
+- [ ] Transitions and Animations in CSS.
+- [ ] Flexible Boxes in CSS.
+- [ ] Lists and Generated Content in CSS.
+- [ ] Multi-Column Layout in CSS.
+
+# HTML5 Books
+- [ ] Mobile HTML5.
+
+# General Web Books
+- [ ] The whole A Book Apart series.
+
+# SVG Books
+- [ ] [Pocket Guide to Writing SVG](http://svgpocketguide.com/book/)
