@@ -20,7 +20,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Write blog post about GAAD.
 - [ ] Write blog post on my 3-5 favorite Atom packages.
 - [ ] Call student loan place.
-- [ ] Start Mark's site.
+- [x] Start Mark's site.
 - [ ] Send Una a nice email (una.kravets@gmail.com)
 
 ### Things I'll Do This Month: May 2016
