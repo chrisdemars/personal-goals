@@ -10,18 +10,16 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 2. Write more blog posts.
 3. Up my JS skills.
 
-# May 16th, 2016
+# May 30th, 2016
 
-### This Week's Goal: Finish code exercise for SoFi.
+### This Week's Goal: Finish Mark's Web site.
 
 ## Things I'll Do This Week:
-- [x] Finish slides for DetroitJS.
-- [ ] Write blog post on Self.Conf.
-- [ ] Write blog post about GAAD.
-- [ ] Write blog post on my 3-5 favorite Atom packages.
-- [ ] Call student loan place.
-- [x] Start Mark's site.
-- [ ] Send Una a nice email (una.kravets@gmail.com)
+- [x] Work on Mark's site.
+- [ ] Order BEM stickers.
+- [ ] Order DetroitJS stickers.
+- [ ] Order DetroitJS shirt.
+- [ ] Order the YDKJS book series.
 
 ### Things I'll Do This Month: May 2016
 - [ ] Create aliases in my terminal.
