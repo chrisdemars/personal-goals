@@ -10,18 +10,18 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 2. Write more blog posts.
 3. Up my JS skills.
 
-# May 30th, 2016
+# June 6th, 2016
 
 ### This Week's Goal: Finish Mark's Web site.
 
 ## Things I'll Do This Week:
 - [x] Work on Mark's site.
-- [ ] Order BEM stickers.
-- [ ] Order DetroitJS stickers.
+- [x] Order BEM stickers.
+- [x] Order DetroitJS stickers.
 - [ ] Order DetroitJS shirt.
 - [ ] Order the YDKJS book series.
 
-### Things I'll Do This Month: May 2016
+### Things I'll Do This Month: June 2016
 - [ ] Create aliases in my terminal.
 - [ ] Finish reading "Learn to Program"
 - [ ] Finish reading "You Are A Badass"
