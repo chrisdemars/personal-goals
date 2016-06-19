@@ -15,12 +15,12 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ### This Week's Goal: Start lorem ipsum generator. :hammer:
 
 ## Things I'll Do This Week:
-- [ ] Start and finish slides for Refresh Detroit lightning talk.
+- [x] Start and finish slides for Refresh Detroit lightning talk.
 - [ ] Order my gun.
 - [ ] Get some dickies.
-- [ ] Order clothes from Sullen.
+- [x] Order clothes from Sullen.
 - [ ] Order business cards.
-- [ ] Purchase ticket to All Things Open conference, if I can find cheap AirBNB.
+- [x] Purchase ticket to All Things Open conference, if I can find cheap AirBNB.
 
 ### Things I'll Do This Month: June 2016
 - [ ] Create aliases in my terminal.
