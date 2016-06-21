@@ -15,6 +15,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ### This Week's Goal: Start lorem ipsum generator. :hammer:
 
 ## Things I'll Do This Week:
+- [ ] Write two blog posts from the two events I spoke at. 
 - [ ] Read a couple more chapters in one of my books.
 - [ ] Find something I can work on for the Hood.ie project.
 - [ ] Start my lorem ipsum generator.
