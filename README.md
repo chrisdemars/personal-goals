@@ -10,23 +10,21 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 2. Write more blog posts.
 3. Up my JS skills.
 
-# June 20th, 2016
+# June 27th, 2016
 
 ### This Week's Goal: Start lorem ipsum generator. :hammer:
 
 ## Things I'll Do This Week:
-- [ ] Write two blog posts from the two events I spoke at. 
-- [ ] Read a couple more chapters in one of my books.
 - [ ] Find something I can work on for the Hood.ie project.
-- [ ] Start my lorem ipsum generator.
+- [ ] Start brainstorming my lorem ipsum generator.
+- [ ] Nail down my budget for July.
+- [ ] Call student loan place and figure out how I am going to pay back my loans 😔.
 
 ### Things I'll Do This Month: June 2016
 - [ ] Create aliases in my terminal.
 - [ ] Finish reading "Learn to Program"
-- [ ] Finish reading "You Are A Badass"
-- [ ] Come up with a new side project.
+- [ ] Continue reading "You Are A Badass"
 - [ ] Write a blog post about perf.
-- [ ] Build a tweet bot.
 - [ ] Put together performance review of company Web site.
 
 ### Backlog: Side Projects :)
