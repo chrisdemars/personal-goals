@@ -1,17 +1,13 @@
-In here you can list steps to accomplish your goals.
+# Blog Posts to Write
 
-Here's an example:
-
-If my goal was to create a dog-themed SVG animation a day, I could list out different animation ideas:
-
-1. Dog jumping over hoop into pool
-2. Dog floating on the moon
-3. Dog in glasses, reading book
-etc..
-
-If my goal was to film more videocasts, this could be used for topics
-
-Nov. 2: Mario Kart over the ages
-Nov. 9: Why Princess Peach lied
-Nov. 16: ?
-Nov. 25: Interview with Luigi
+- [ ] Performance in general.
+- [ ] Performance within an enterprise.
+- [x] This isn't new to me.
+- [x] Global Accessibility Awareness Day 2016
+- [ ] SVG
+- [ ] Mobile debugging responsive sites for Android and iOS.
+- [ ] Predictive test and the user.
+- [ ] To BEM or Not to Bem?
+- [ ] Aliasing in ZSH.
+- [ ] Gulping your CSS
+- [ ] DRYing your CSS (single responsibility principle)
