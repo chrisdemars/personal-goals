@@ -1,5 +1,5 @@
 ## JavaScript Books to Read or Buy
-- [ ] [Eloquent Javascript](http://eloquentjavascript.net/)
+- [x] [Eloquent Javascript](http://eloquentjavascript.net/)
 - [ ] [The whole YDKJS series by Kyle Simpson](http://shop.oreilly.com/category/get/kyle-simpson-kit.do)
 - [ ] [Understanding ECMAScript 6](http://shop.oreilly.com/product/9781593277574.do)
 - [ ] [Maintainable JavaScript](http://shop.oreilly.com/product/0636920025245.do)
@@ -7,11 +7,11 @@
 - [ ] [Learning JavaScript, 3rd Edition](http://shop.oreilly.com/product/0636920035534.do) 
 
 ## Front End Books
-- [ ] [Front End Architecture by Micah Godbolt](http://shop.oreilly.com/product/0636920040156.do)
+- [x] [Front End Architecture by Micah Godbolt](http://shop.oreilly.com/product/0636920040156.do)
 - [ ] Hmmm.....
 
 ## CSS Books
-- [ ] [CSS Secrets](http://shop.oreilly.com/product/0636920031123.do?sortby=publicationDate)
+- [x] [CSS Secrets](http://shop.oreilly.com/product/0636920031123.do?sortby=publicationDate)
 - [ ] [Transitions and Animations in CSS](http://shop.oreilly.com/product/0636920041658.do)
 - [ ] [Flexible Boxes in CSS](http://shop.oreilly.com/product/0636920041672.do)
 - [ ] [Lists and Generated Content in CSS](http://shop.oreilly.com/product/0636920041689.do)
